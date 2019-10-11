@@ -1,6 +1,8 @@
 # Snake-Game-Python
 Snake Game using pygame in Python 
 
+install pygame module using (for windows) : pip install pygame 
+
 It is a simple sanke game in which the player controls the sanke with arrow keys and makes the snake eat the food appearing randomly.<br>
 It shows current score and Highest score of the local system.<br>
 The game speed increases as the score increases.<br>
