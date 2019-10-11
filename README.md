@@ -12,5 +12,7 @@ It has background music.
   3) Change window size : Change width and height variable
   4) Change size of food and 1 unit of snake length : Change size variable
   
- Happy Gaming People! ;) 
- Background Music link <a href = "https://www.youtube.com/watch?v=kL6fN3HNAXo">here</a>
+ Happy Gaming People! ;) <br>
+ Background Music link <a href = "https://www.youtube.com/watch?v=kL6fN3HNAXo">here</a><br>
+ Game Over music from Youtube Audio Library
+ 
